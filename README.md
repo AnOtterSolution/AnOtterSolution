@@ -19,7 +19,7 @@ Alle Projekte hier sind **Eigenentwicklungen**, entstanden aus persönlicher Mot
 
 ### 🚀 Projekte (Auswahl)
 
-#### 🪴 [An Otter Grow Control](#)
+#### 🪴 [An Otter Grow Control](https://github.com/AnOtterSolution/an-otter-grow-control)
 IoT-basiertes Steuerungssystem zur automatisierten Überwachung und Regelung von Umweltparametern in einem Mini-Gewächshaus.  
 Kombiniert **Firmware, Hardware-Design, Frontend, Backend und Datenvisualisierung** in einer modularen Docker-Architektur.  
 > *Komplett eigenständige Entwicklung – zeigt Hardware-, Software- und System-Integration.*
@@ -28,7 +28,7 @@ Kombiniert **Firmware, Hardware-Design, Frontend, Backend und Datenvisualisierun
 |:--:|:--:|
 | <img src="images/AnOtterGrowControl-Greenhouse.png" alt="aogc-greenhouse" width=300> | <img src="images/AnOtterGrowControl-Desktop.png" alt="aogc-dashboard-desktop" width=500>
 
-#### 💻 [An Otter PCAP Trainer](#)  
+#### 💻 [An Otter PCAP Trainer](https://github.com/AnOtterSolution/an-otter-pcap-trainer)
 Lern- und Trainings-App für das Python PCAP Examen, mit Trainigsmodi für kapitelbasiertes Training, zufällige Fragen, Prüfungssimulationen und einem integrierten Groq Assistenten (ChatBot) zur Erklärung von Fragen und Themenkomplexen.  
 
 > *Demonstriert Python-, Flask- und einfache Frontend-Kenntnisse sowie Datenbank- und Test-Struktur.*
@@ -37,7 +37,7 @@ Lern- und Trainings-App für das Python PCAP Examen, mit Trainigsmodi für kapit
 |:--:|
 |<img src="images/AnOtterPcapTrainer.png" alt="AnOtterPcapTrainer - Example View">
 
-#### ☕ [An Otter Kiosk](#)  
+#### ☕ [An Otter Kiosk](https://github.com/AnOtterSolution/an-otter-kiosk)
 
 Ein Touch-basiertes, digitales Kassensystem für kleine Vereine und Gemeinschaften auf Basis eines **Raspberry Pi 5 B**. Ermöglicht die Nutzung über ein HMI mit RFID Authentifizierung, sowie über mobile Geräte durch einen eigenen WLAN‑Access‑Point und Einbingung in das lokale Netzwerk über LAN.
 
@@ -76,7 +76,7 @@ All projects shown here are **independent developments**, created from personal 
 
 ### 🚀 Projects (Selection)
 
-#### 🪴 [An Otter Grow Control](#)  
+#### 🪴 [An Otter Grow Control](https://github.com/AnOtterSolution/an-otter-grow-control)
 IoT-based control system for the automated monitoring and regulation of environmental parameters in a mini-greenhouse.  
 Combines **firmware, hardware design, frontend, backend, and data visualization** within a modular Docker architecture.  
 > *Completely self-developed – demonstrates full integration of hardware, software, and system design.*
@@ -85,7 +85,7 @@ Combines **firmware, hardware design, frontend, backend, and data visualization*
 |:--:|:--:|
 | <img src="images/AnOtterGrowControl-Greenhouse.png" alt="aogc-greenhouse" width=300> | <img src="images/AnOtterGrowControl-Desktop.png" alt="aogc-dashboard-desktop" width=500> |
 
-#### 💻 [An Otter PCAP Trainer](#)  
+#### 💻 [An Otter PCAP Trainer](https://github.com/AnOtterSolution/an-otter-pcap-trainer)
 Learning and training app for the Python PCAP exam.  
 Includes chapter-based training, random question mode, exam simulations, and an integrated **Groq Assistant (chatbot)** to explain questions and concepts.  
 > *Demonstrates Python, Flask, and basic frontend skills, as well as database and testing structure.*
@@ -94,7 +94,7 @@ Includes chapter-based training, random question mode, exam simulations, and an 
 |:--:|
 | <img src="images/AnOtterPcapTrainer.png" alt="AnOtterPcapTrainer - Example View"> |
 
-#### ☕ [An Otter Kiosk](#)  
+#### ☕ [An Otter Kiosk](https://github.com/AnOtterSolution/an-otter-kiosk) 
 Touch-based digital point-of-sale system for small clubs or communities, built on a **Raspberry Pi 5 B**.  
 Supports use via touchscreen HMI with **RFID authentication** and via mobile devices through a local WLAN access point and LAN integration.  
 > *Combines embedded and UI design with database logic and hardware integration.*
