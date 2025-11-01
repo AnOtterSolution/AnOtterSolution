@@ -43,7 +43,7 @@ Lern- und Trainings-App für das Python PCAP Examen, mit Trainigsmodi für kapit
 
 #### ☕ [An Otter Kiosk](https://github.com/AnOtterSolution/an-otter-kiosk)
 
-Ein Touch-basiertes, digitales Kassensystem für kleine Vereine und Gemeinschaften auf Basis eines **Raspberry Pi 5 B**. Ermöglicht die Nutzung über ein HMI mit RFID Authentifizierung, sowie über mobile Geräte durch einen eigenen WLAN‑Access‑Point und Einbingung in das lokale Netzwerk über LAN.
+Ein Touch-basiertes, digitales Kassensystem für kleine Vereine und Gemeinschaften auf Basis eines **Raspberry Pi 5 B**. Ermöglicht die Nutzung über ein HMI mit RFID Authentifizierung, sowie über mobile Geräte durch einen eigenen WLAN‑Access‑Point und Einbindung in das lokale Netzwerk über LAN.
 
 > *Verbindet Embedded- und UI-Design mit Datenbank-Logik und Hardware-Integration.*
 
