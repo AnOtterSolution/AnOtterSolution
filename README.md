@@ -7,6 +7,10 @@ Mit einem Hintergrund in **Mechatronik** (M.Sc.) und mehreren Jahren Erfahrung a
 Ich entwickle gern **komplexe Systeme**, bei denen Technik auf Kreativität trifft – von automatisierten Hardwarelösungen über Embedded-Controller bis hin zu webbasierten Anwendungen und Tools.  
 Alle Projekte hier sind **Eigenentwicklungen**, entstanden aus persönlicher Motivation, Neues zu lernen und Ideen in funktionierende Systeme zu verwandeln.  
 
+Ich sehe mich selbst nicht als Spezialist in allen Teilgebieten, die in die hier gezeigten Anwendungen einfließen – etwa im Bereich **UI/UX Design** oder **OPSec**.  
+Der Perfektionist in mir betrachtet daher keines der nachfolgenden Projekte als vollständig abgeschlossen.  
+Dennoch sind alle hier vorgestellten Projekte lauffähig, werden praktisch eingesetzt und erfüllen in ihrem aktuellen Zustand zuverlässig ihren jeweiligen Zweck.
+
 ---
 
 ### 🧰 Technologien & Werkzeuge  
@@ -63,6 +67,10 @@ With a background in **Mechatronics (M.Sc.)** and several years of experience as
 
 I enjoy creating **complex systems** where technology meets creativity – from automated hardware setups and embedded controllers to web-based tools and applications.  
 All projects shown here are **independent developments**, created from personal curiosity, the desire to learn, and the goal of turning ideas into functional, well-integrated systems.  
+
+I don’t consider myself a specialist in all the disciplines that flow into the applications shown here – for example, in **UI/UX design** or **OPSec**.  
+The perfectionist in me therefore doesn’t regard any of the following projects as truly finished.  
+Nevertheless, all presented projects are fully functional, actively used, and reliably serve their intended purpose in their current state.
 
 ---
 
