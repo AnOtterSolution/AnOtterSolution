@@ -1,8 +1,8 @@
 # 🦦 AnOtterSolution  
 
 ### 🇩🇪 Über mich  
-Ich bin ein pragmatischer Entwickler mit Sinn fürs Ganze – sozusagen ein Schweizer Taschenmesser für **Elektronik, Mechanik und Software**.  
-Mit einem Hintergrund in **Mechatronik** (M.Sc.) und mehreren Jahren Erfahrung als Applikationsingenieur verbinde ich Hardware-Verständnis mit Software-Logik und einem klaren Blick für praktikable Lösungen.  
+Ich bin ein pragmatischer Entwickler mit Sinn fürs Ganze und einem interdisziplinären Hintergrund aus Elektronik, Mechanik und Software. 
+Aufbauend auf meinem M.Sc. in Mechatronik und mehreren Jahren Erfahrung als Applikationsingenieur verbinde ich fundiertes Hardwareverständnis mit strukturiertem Softwaredenken und einem klaren Blick für praktikable Lösungen.
 
 Ich entwickle gern **komplexe Systeme**, bei denen Technik auf Kreativität trifft – von automatisierten Hardwarelösungen über Embedded-Controller bis hin zu webbasierten Anwendungen und Tools.  
 Alle Projekte hier sind **Eigenentwicklungen**, entstanden aus persönlicher Motivation, Neues zu lernen und Ideen in funktionierende Systeme zu verwandeln.  
@@ -62,8 +62,8 @@ Ich erweitere meine Projekte laufend und experimentiere mit neuen Technologien i
 ---
 
 ### 🇬🇧 About Me  
-I’m a pragmatic developer with a sense for the big picture – a kind of **Swiss-Army-knife for electronics, mechanics, and software**.  
-With a background in **Mechatronics (M.Sc.)** and several years of experience as an **Application Engineer**, I combine solid hardware expertise with software logic and a clear focus on practical, real-world solutions.  
+I am a pragmatic developer with a holistic mindset and an interdisciplinary background in electronics, mechanics, and software. 
+Building on my M.Sc. in Mechatronics and several years of experience as an application engineer, I combine solid hardware expertise with structured software thinking and a clear focus on practical, reliable solutions.
 
 I enjoy creating **complex systems** where technology meets creativity – from automated hardware setups and embedded controllers to web-based tools and applications.  
 All projects shown here are **independent developments**, created from personal curiosity, the desire to learn, and the goal of turning ideas into functional, well-integrated systems.  
