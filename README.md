@@ -1,4 +1,4 @@
-# 🦦 AnOtterSolution  
+# Robert Otta - AnOtterSolution  
 
 ### 🇩🇪 Über mich  
 Ich bin ein pragmatischer Entwickler mit Sinn fürs Ganze und einem interdisziplinären Hintergrund aus Elektronik, Mechanik und Software. 
